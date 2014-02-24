@@ -1,6 +1,8 @@
 # CouchbaseOrmAdapter
 
-TODO: Write a gem description
+Adapter for [Couchbase::Model](https://github.com/couchbase/couchbase-ruby-model),
+mainly to provide [orm_adapter](https://github.com/ianwhite/orm_adapter) support
+for [Devise](https://github.com/plataformatec/devise).
 
 ## Installation
 
@@ -18,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Not really anything needed.  
 
 ## Contributing
 

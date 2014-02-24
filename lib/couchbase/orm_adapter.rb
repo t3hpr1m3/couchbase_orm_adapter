@@ -1,4 +1,5 @@
 require 'orm_adapter'
+require 'active_support'
 
 module OrmAdapter
   class Couchbase < ::OrmAdapter::Base
